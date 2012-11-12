@@ -1,0 +1,115 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+div{
+	float: left;
+	display: inline;
+	text-decoration: none;
+}
+
+img{
+	border: none;
+}
+
+/* -----------------------------------------  具体内容 -------------------------------- */
+.all{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+.logos{
+	width: 100%;
+	height: 79px;
+	background-color:#da6546;
+}
+.bar{
+	width: 100%;
+	height: 79px;
+	background: url(../img/MF_bar.jpg) repeat-x;
+}
+.contain{
+	width: 1004px;
+	clear: both;
+	margin: 20px 0 0 20%;
+}
+
+
+/* -----------------------------------------  中间信息的内容块 -------------------------------- */
+.block{
+	width: 580px;
+	margin: 0 0 50px 0;
+}
+
+.block p{
+	font-size: 14px;
+	color:#3a3a3a;
+	font-family:"宋体","Arial";
+	margin: 10px 0;
+}
+
+.block span{
+	font-size: 14px;
+	color:#555555;
+	line-height: 18px;
+}
+
+/* */
+.inputInfor{
+	margin: 50px 0 0 20%;
+	clear: both;
+}
+
+.inputInfor p{
+	margin: 5px 0;
+	font-size: 14px;
+	color:#3a3a3a;
+}
+
+.text_t{
+	margin: 0 0 10px 0;
+	width: 200px;
+	color:#3a3a3a;
+	font-family:"宋体","Arial";
+	border: 1px #efcb89 solid;
+}
+
+.text_a{
+	width: 500px;
+	height: 100px;
+	color:#3a3a3a;
+	font-family:"宋体","Arial";
+	border: 1px #efcb89 solid;
+}
+
+.okSub{
+	width:128px;
+	height:60px;
+	background-image:url(../img/mk_ok.jpg);
+	border: none;
+	margin: 10px 0;
+	cursor: pointer;
+}
+
+.footer{
+	width: 100%;
+	margin: 50px 0 0 0;
+}
+
+.footer p{
+	color:#3a3a3a;
+	font-size: 12px;
+	margin: 0 0 0 20%;
+}
+/** 失物招领 **************************************************************************************/
+.logo_swzl{
+	width: 100%;
+	height: 79px;
+	background-color:#46c3da;
+}
+.bar_swzl{
+	width: 100%;
+	height: 79px;
+	background: url(../img/bar_Bule.jpg) repeat-x;
+}

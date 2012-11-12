@@ -1,0 +1,52 @@
+/** other here */
+.pageBody {
+	width: 960px;
+	margin: 20px 0 20px 20px;
+	clear: both;
+}
+
+/* ----------------------------- ads 部分 --------------------------*/
+.body_Ads{
+	border: 1px solid #d0d0d0;
+	padding:1px;
+}
+
+.logos{
+	width: 300px;
+}
+
+.body_img{
+	border: 1px solid #f5f5f5;
+	padding:1px;
+	width: 185px;
+	height: 185px;
+	margin: 0 0 8px 0;
+}
+
+/**  ---------------------------- 商品部分 ------------------------------*/
+.body_porducts{
+	margin: 20px 0;
+	width: 980px;
+}
+
+.body_sigleBorder{
+	width: 187px;
+	margin: 0 5px 30px 0;
+}
+
+.body_sigleBorder a{
+
+}
+
+.body_sigleBorder p{
+	font-size: 12px;
+	color: #333333;
+	line-height: 20px;
+}
+
+.body_sigleBorder span{
+	color: #cc0000;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}

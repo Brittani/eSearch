@@ -1,0 +1,44 @@
+/* ----------------------- 分页效果 ------------------------------- */
+
+.lit_words{
+	float: right;
+	clear: both;
+	width: 730px;
+	margin: 10px 0 0 0;
+}
+
+.lit_words p{
+	float: left;
+}
+
+.lit_words span{
+	float: right;
+}
+
+.lit_words a{
+	color: #7c7373;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+
+.big_words{
+	float: right;
+	clear: both;
+	width: 100%;
+	margin: 10px 0 0 0;
+}
+
+.big_words p{
+	float: left;
+}
+
+.big_words span{
+	float: right;
+}
+
+.big_words a{
+	color: #7c7373;
+	font-size: 12px;
+	text-decoration: none;
+}

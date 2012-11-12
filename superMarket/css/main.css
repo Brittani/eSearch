@@ -1,0 +1,293 @@
+/* CSS 在这里执行 */
+/** public 部分 */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+a{
+	text-decoration: none;
+	border: none;
+}
+
+.contain {
+	width: 100%;
+	height: auto;
+	background: #fdfdfd;
+	margin: 0 auto;
+}
+
+div{
+	float:left;
+	display: inline;
+}
+
+img{
+	border: none;
+}
+
+/*
+//////////////////////////////////////////
+//////////////////////////////////////////
+*/
+.header{
+	width:100%;
+	clear:both;
+
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+/** header 部分 */
+.headerLay1{
+	width: 100%;
+}
+
+.headerLay2{
+	background: url(../img/header_bar.jpg) repeat-x;
+	width: 100%;
+	height: 41px;
+	margin: 10px 0 0 0;
+}
+
+.headerLay3{
+	background: url(../img/Search_BG.jpg) repeat-x;
+	width: 100%;
+	height: 45px;
+}
+
+
+/* ------------------  headerLay1 里面的样式 ------------------- */
+.logo{
+	float: left;
+	width: 390px;
+	margin: 0 0 0 15px;
+}
+
+.headerLay1 .infor{
+	float: right;
+	font-size: 12px;
+	font-family: "宋体";
+	text-align: right;
+	color: #747272;
+	margin: 0 15px 0 0;
+}
+
+.infor .freePhone{
+	font-weight: bold;
+	font-size: 16px;
+	margin: 15px 0px 5px 0;
+}
+
+/*  --------------------------- ad 上面的button --------------- */
+.headerButton{
+	margin: 5px 0 0 20px;
+}
+
+/* ---------------
+button 1 : 主页
+*/
+.button_index a:hover, .button_index a:active{
+	background: url(../img/Button_AD_index2.jpg);
+	display: block;
+}
+
+.button_index a {
+	background: url(../img/Button_AD_index.jpg);
+	width: 108px;
+	height: 36px;
+	display: block;
+}
+
+/* ---------------
+button 2 ： 货品
+*/
+.button_product a:hover, .button_product a:active{
+	background: url(../img/Button_AD_product2.jpg);
+	display: block;
+}
+
+.button_product a {
+	background: url(../img/Button_AD_product.jpg);
+	width: 108px;
+	height: 36px;
+	display: block;
+}
+
+/* ---------------
+button 3 ： 货品
+*/
+.button_prosonal a:hover, .button_prosonal a:active{
+	background: url(../img/Button_AD_prosonal2.jpg);
+	display: block;
+}
+
+.button_prosonal a {
+	background: url(../img/Button_AD_prosonal.jpg);
+	width: 108px;
+	height: 36px;
+	display: block;
+}
+/* ---------------
+button 4 : 网上商城
+*/
+.button_wssc a:hover, .button_wssc a:active{
+	background: url(../img/Button_AD_wsscr.jpg);
+	display: block;
+}
+
+.button_wssc a {
+	background: url(../img/Button_AD_wssc.jpg);
+	width: 108px;
+	height: 36px;
+	display: block;
+}
+
+/* ---------------
+边框
+*/
+.button_endBar{
+	background: url(../img/Button_AD_endBar.jpg);
+	width: 1px;
+	height: 36px;
+	display: block;
+}
+
+/* ----------------
+登陆
+*/
+.login{
+	float: right;
+	margin: 0 20px 0 0;
+}
+
+.login a:hover, .login a:active{
+	background: url(../img/Button_AD_login2.jpg);
+	display: block;
+}
+
+
+.login a{
+	background: url(../img/Button_AD_login.jpg);
+	width: 92px;
+	height: 40px;
+	display: block;
+	margin:1px 0 0 0;
+}
+
+/* ----------------
+注册
+*/
+.register{
+	float: right;
+}
+
+.register a:hover, .register a:active{
+	background: url(../img/Button_AD_register2.jpg);
+	display: block;
+}
+
+
+.register a{
+	background: url(../img/Button_AD_register.jpg);
+	width: 92px;
+	height: 40px;
+	display: block;
+	margin: 1px 0 0 0;
+}
+
+/* -------------------
+退出
+*/
+.out{
+	float: right;
+}
+
+.out a:hover, .out a:active{
+	background: url(../img/Button_AD_out2.jpg);
+	display: block;
+}
+
+.out a{
+	background: url(../img/Button_AD_out.jpg);
+	width: 92px;
+	height: 40px;
+	display: block;
+	margin: 1px 0 0 0;
+}
+
+/* ----------------------  搜索框体 ---------------------- */
+.search{
+	margin: 10px 10px 10px 20px;
+}
+
+.search .inputs{
+	height: 22px;
+	border: 1px solid #d8d8d8;
+}
+
+.search .sureButton{
+	background-image: url(../img/Search_sureButton.jpg);
+	width: 36px;
+	height: 24px;
+	border: 0px;
+}
+
+/**
+分类框体
+*/
+.other{
+	margin: 18px 0 0 0;
+}
+
+.other span{
+	font-size: 12px;
+	font-weight: bold;
+	color: #838383;
+}
+
+.other a{
+	font-size: 12px;
+	color: #838383;
+	margin: 0 0 0 12px;
+}
+
+/* ----------------------  FOOTer ---------------------- 
+/////////////////////////////////////////////////////////////
+*/
+.footer{
+	width: 100%;
+	clear: both;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.footer .show{
+	clear: both;
+	margin: 0 0 0 20px;
+}
+
+.footer .rights{
+	width: 960px;
+	font-size: 12px;
+	color: #a3a3a3;
+	margin: 10px 0 0 40px;
+	clear: both;
+}
+
+/* 图片格式*/
+.sImg{
+	width: 185px;
+	height: 185px;
+}
+
+.mImg{
+	width: 420px;
+	height: 420px;
+}
+
+.bImg{
+	width: 740px;
+	height: auto;
+}

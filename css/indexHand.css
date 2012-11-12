@@ -1,0 +1,111 @@
+*{
+	border: 0px;
+	margin:0px;
+}
+
+div{
+	float:left;
+	display: inline;
+}
+
+p{
+	font-size:12px
+}
+
+a{
+	color:#3a3a3a;
+	font-size: 12px;
+	text-decoration: none;
+}
+/* --------------------------- 好吧主页在下 ------------------------------*/
+.all{
+	width:1004px;
+	margin: 0 0 0 10%;
+}
+
+.handler{
+	width: 1004px;
+}
+
+.logo{
+	width:203px;
+	height:76px;
+}
+
+.words{
+	width: 200px;
+	float: right;
+	margin: 60px 0 0 0;
+}
+
+.words a{
+	margin: 0 0 0 10px;
+}
+
+/** z中间 **/
+.oper{
+	border-right: 1px solid #a8a8a8;
+	width: 620px;
+	margin: 20px 0;
+}
+
+.block{
+	width: 550px;
+	margin: 20px 0;
+}
+
+.block .img_o{
+	width: 162;	
+}
+
+.block .text{
+	width: 338px;
+	padding: 0 25px;
+}
+
+.block .text p{
+	font-size: 14px;
+	font-weight: bold;
+	margin: 10px 0 15px 0;
+}
+
+.block .text span{
+	font-size: 12px;
+	color:#939495;
+	line-height: 18px;
+}
+
+.someWords{
+	width:280px;
+	margin: 20px 0 0 20px;
+}
+.textA{
+	margin: 20px 0 10px 0;
+}
+
+.textA p{
+	font-weight: bold;
+	margin: 0 0 20px 0;
+}
+
+.textA span{
+	font-size: 12px;
+	color:#939495;
+	line-height: 18px;
+}
+
+.textA a{
+	display: block;
+	font-size: 12px;
+	color:#939495;
+	line-height: 18px;
+	margin: 0 0 0 10px;
+}
+
+/**  footer **/
+.footer{
+	color:#717070;
+	width:100%;
+	clear:both;
+	margin: 20px 0 0 0;
+}

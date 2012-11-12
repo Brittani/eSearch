@@ -1,0 +1,92 @@
+/* csss begin */
+.body_porducts{
+	width: 960px;
+	margin: 20px 0 20px 20px;
+	clear: both;
+}
+
+/* 第一栏的内容 */
+.body_list{
+	width: 205px;
+}
+
+.list_words{
+	width: 205px;
+	margin: 10px 0 0 0;
+	text-align: right;
+}
+
+.body_list p{
+	font-size: 12px;
+	margin: 0 0 10px 0;
+	color: #838383;
+}
+
+.body_list a{
+	color: #7c7373;
+	font-size: 12px;
+	margin: 0 20px 0 0;
+}
+
+.list_itemBlock{
+	width: 205px;
+	border: 1px solid #ebebeb;
+	padding: 0 0 20px 0;
+}
+
+.item_img{
+	border: 1px solid #dddddd;
+	margin: 0 0 5px 0;
+}
+
+.list_item p {
+	font-size: 14px;
+	font-weight: bold;
+	color: #cc0000;
+	text-align: center;
+}
+
+/*         中间区域 */
+.body_infs{
+	width: 490px;
+	height:350px;
+	border-left: 1px solid #e1e1e1;
+	border-right:1px solid #e1e1e1;
+	margin: 0 0 0 10px;
+}
+
+.input_sureBT{
+	background: url(../img/products/sureBtn_personal.jpg);
+	width: 191px;
+	height: 52px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.information_imgs{
+	border: 1px solid #eeeeee;
+	margin: 15px 2px 0 0;
+	float: right;
+	width: 720px;
+}
+
+.bar{
+	background:#ededed;
+	width: 720px;
+	text-align: center;
+}
+
+bar_inf{
+	width: 720px;
+}
+
+.bar_item{
+	width: 80px;
+	margin: 5px 10px 5px 10px;
+	color: #292929;
+	text-align: right;
+}
+
+.bar_item span{
+	word-wrap : break-word;
+}

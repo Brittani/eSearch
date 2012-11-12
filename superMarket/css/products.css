@@ -1,0 +1,170 @@
+/* csss begin */
+.body_porducts{
+	width: 960px;
+	margin: 20px 0 20px 20px;
+	clear: both;
+}
+
+/* 第一栏的内容 */
+.body_list{
+	width: 205px;
+}
+
+.body_list p{
+	font-size: 12px;
+	margin: 0 0 10px 0;
+	color: #838383;
+}
+
+.list_itemBlock{
+	width: 205px;
+	border: 1px solid #ebebeb;
+	padding: 0 0 20px 0;
+}
+
+.item_img{
+	border: 1px solid #dddddd;
+	margin: 0 0 5px 0;
+}
+
+.list_item{
+	width: 85px;
+	margin: 10px 0 0 10px;
+}
+
+.list_item p {
+	font-size: 14px;
+	font-weight: bold;
+	color: #cc0000;
+	text-align: center;
+}
+
+/*         中间区域 */
+.body_information{
+	margin: 0 0 0 15px;
+}
+
+.information_detailMap{
+	border: 1px solid #eeeeee;
+	width: 415px;
+	height:375px;
+	color: #b1b1b1;
+	font-size: 12px;
+}
+
+.information_detaiWords{
+	width: 310px;
+	margin: 0 0 0 10px;
+}
+
+/**  右侧详细参数字体效果 */
+.words_title{
+	color: #494343;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+}
+
+.words_dio{
+	font-size: 12px;
+	color: #b1b1b1;
+	margin: 0 0 20px 0;
+}
+
+.words_pros{
+	color: #171717;
+	font-size: 14px;
+	margin: 0  0 14px 0;
+}
+
+.words_pros span{
+	color: #db1e1e;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.words_someThing{
+	color: #878787;
+	font-size: 12px;
+	margin: 0 0 12px 0;
+}
+
+.set_block{
+	width: 280px;
+	color: #171717;
+	font-size: 12px;
+	border: 1px solid #f8d9e5;
+	background-color: #fcedf5;
+	padding: 15px 0 15px 15px;
+}
+
+.set_block input{
+	width: 55px;
+	margin: 5px 4px;
+}
+
+.set_block .inputLang{
+	width: 150px;
+}
+
+.set_block span{
+	color: #db1e1e;
+}
+
+.information_detaiWords .BuySubmit{
+	width: 198px;
+	height: 51px;
+	border: 0px;
+	background-image: url(../img/products/buyImg.jpg);
+	margin: 20px 0 0 0;
+	cursor: pointer;
+}
+
+.information_imgs{
+	border: 1px solid #eeeeee;
+	margin: 15px 2px 0 0;
+	float: right;
+	width: 735px;
+	color: #878787;
+	font-size: 12px;
+}
+
+/* 第一栏的内容 */
+
+.body_list a{
+	color: #7c7373;
+	font-size: 12px;
+	margin: 0 20px 0 0;
+}
+
+.list_itemBlock{
+	width: 205px;
+	border: 1px solid #ebebeb;
+	padding: 0 0 20px 0;
+}
+
+.list_words{
+	width: 205px;
+	margin: 10px 0 0 0;
+	text-align: right;
+}
+
+.textarea{
+	width: 500px;
+	height: 100px;
+	margin: 5px 0;
+	font-size: 12px;
+}
+
+.oksubmit{
+	margin: 5px 0;
+}
+
+.pro_tit{
+	margin: 20px 0;
+}
+
+.pro_der{
+	font-size: 14px;
+}
+

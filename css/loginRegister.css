@@ -1,0 +1,79 @@
+/** other here */
+.pageBody {
+	width: 960px;
+	margin: 20px 0 20px 20px;
+	clear: both;
+}
+
+/* ----------------------- information ------ */
+.body_img{
+	width: 225px;
+	margin: 80px 0 0 0;
+}
+
+.body_block{
+	width: 490px;
+	height:350px;
+	border-left: 1px solid #e1e1e1;
+	border-right:1px solid #e1e1e1;
+}
+
+.body_molis{
+}
+
+/* ------------------------------ 框架样式 ------------------------- */
+.body_item{
+	margin: 10px 0 15px 25px;
+	text-align: right;
+	width: 425px;
+}
+
+.body_item span{
+	font-size: 12px;
+	color: #292929;
+}
+
+.body_item p{
+	font-size:12px;
+	color: #ff4c4c;
+}
+
+.body_item input{
+	height: 18px;
+	width: 100px;
+}
+
+/* ----------------------------- 框体内容 ------------------------------ */
+.body_title{
+	margin: 0 0 30px 20px;
+	clear: both;
+}
+
+.item_str{
+	margin: 4px 8px 0 0;
+	width: 100px;
+}
+
+.item_tip{
+	margin: 4px 0 0 8px;
+}
+
+.item_sureBtn{
+	margin: 40px 0 0 100px;
+}
+
+.input_btn{
+	background: url(../img/products/sureBtn.jpg);
+	width: 191px;
+	height: 52px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.input_btnLogin{
+	background: url(../img/products/sureBtn2.jpg);
+	width: 191px;
+	height: 52px;
+	border: 0px;
+	cursor: pointer;
+}
